@@ -1,0 +1,218 @@
+1616875958920	geckodriver	INFO	Listening on 127.0.0.1:59321
+1616875959807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofilepj6VN0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616875965152	Marionette	INFO	Listening on port 59332
+1616875965211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Error: Request timed out
+JavaScript error: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Error: Request timed out
+1616875988113	geckodriver	INFO	Listening on 127.0.0.1:59531
+1616875988140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofile1vqA8W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616875992462	Marionette	INFO	Listening on port 59540
+1616875992484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616876248100	geckodriver	INFO	Listening on 127.0.0.1:60259
+1616876248144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofile6YbgJv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616876253199	Marionette	INFO	Listening on port 60264
+1616876253249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616876318833	geckodriver	INFO	Listening on 127.0.0.1:60826
+1616876318883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileiellHa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616876323366	Marionette	INFO	Listening on port 60831
+1616876323448	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616884495632	Marionette	INFO	Stopped listening on port 60831
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616884501412	Marionette	INFO	Stopped listening on port 60264
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616884509318	Marionette	INFO	Stopped listening on port 59540
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616884572379	geckodriver	INFO	Listening on 127.0.0.1:52147
+1616884572423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileHx8YcS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616884577510	Marionette	INFO	Listening on port 52156
+1616884577551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616884680088	Marionette	INFO	Stopped listening on port 52156
+1616884686338	Marionette	INFO	Stopped listening on port 59332
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616884752442	geckodriver	INFO	Listening on 127.0.0.1:53093
+1616884752503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofilemn2X7t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616884756354	Marionette	INFO	Listening on port 53098
+1616884756473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616884808191	geckodriver	INFO	Listening on 127.0.0.1:53513
+1616884809197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileTqTjbW"
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616884811936	Marionette	INFO	Stopped listening on port 53098
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616884814166	Marionette	INFO	Listening on port 53524
+1616884814200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616884846349	geckodriver	INFO	Listening on 127.0.0.1:53853
+1616884846360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileOdcK4V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616884850232	Marionette	INFO	Listening on port 53858
+1616884850313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616885552246	geckodriver	INFO	Listening on 127.0.0.1:57349
+1616885553255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileFhH3Jr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616885557174	Marionette	INFO	Listening on port 57362
+1616885557263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616885638606	geckodriver	INFO	Listening on 127.0.0.1:57890
+1616885639609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofilep4P2kZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616885643487	Marionette	INFO	Listening on port 57901
+1616885643533	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616885699867	geckodriver	INFO	Listening on 127.0.0.1:58318
+1616885699880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileZ09RHW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616885703937	Marionette	INFO	Listening on port 58323
+1616885704044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1616885750128	Marionette	INFO	Stopped listening on port 53524
+1616885753138	Marionette	INFO	Stopped listening on port 53858
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616885755979	Marionette	INFO	Stopped listening on port 57362
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616885758030	Marionette	INFO	Stopped listening on port 58323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616885818139	geckodriver	INFO	Listening on 127.0.0.1:59014
+1616885818156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileFPspTD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616885821633	Marionette	INFO	Listening on port 59019
+1616885821684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Error: Request timed out
+JavaScript error: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Error: Request timed out
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616885935972	geckodriver	INFO	Listening on 127.0.0.1:59959
+1616885935982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileCc2lRs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616885939732	Marionette	INFO	Listening on port 59964
+1616885939804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616886100094	geckodriver	INFO	Listening on 127.0.0.1:61175
+1616886100120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofiled0hdlg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616886103774	Marionette	INFO	Listening on port 61180
+1616886103844	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616886243932	geckodriver	INFO	Listening on 127.0.0.1:61977
+1616886244938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofile8yaVKm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616886248495	Marionette	INFO	Listening on port 61988
+1616886248569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616886502347	geckodriver	INFO	Listening on 127.0.0.1:63384
+1616886502372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileENtAcH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616886506862	Marionette	INFO	Listening on port 63389
+1616886506954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1616886552461	geckodriver	INFO	Listening on 127.0.0.1:63899
+1616886552478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileJggN2F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616886557814	Marionette	INFO	Listening on port 63904
+1616886557886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1616886712964	geckodriver	INFO	Listening on 127.0.0.1:64947
+1616886713973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yj/wg9j63j103j0_d348prm99000000gn/T/rust_mozprofileW2FVf4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616886717556	Marionette	INFO	Listening on port 64958
+1616886717630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
